@@ -27,10 +27,21 @@ Links:
 [sporcle](https://sporcle.com)
 [wikipedia](https://wikipedia.org "Wikipedia")
 
+# heading 1, again
 #### heading 4
 ---
 lines?
 ---
+
+tables:  
+| col1 | col2 |
+|------|------|
+| thing1 | thing2 |
+| foo | bar |
+
+tasks lists:  
+- [ ] task1
+- [x] task2
 
 ##### heading 5
 content
