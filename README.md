@@ -8,7 +8,18 @@ content.
 ***bold + italics***
 
 ### heading 3
-content
+unordered lists:
+- item 1
+- item 2
+    - item 2.1
+* item 3
+    * item 3.1
+    * item 3.2
+
+ordered lists:
+1. first thing
+2. second thing
+3. third thing
 
 #### heading 4
 content
