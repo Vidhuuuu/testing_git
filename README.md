@@ -3,9 +3,11 @@ content
 
 ## heading 2
 content.  
-*text in italic*. _this is also italics_
-**text in bold**. __text in bold__
-***bold + italics***
+*text in italic*. _this is also italics_  
+**text in bold**. __text in bold__  
+***bold + italics***  
+~~strikethrough~~  
+\*literal/verbatim\*
 
 ### heading 3
 unordered lists:
@@ -21,8 +23,14 @@ ordered lists:
 2. second thing
 3. third thing
 
+Links:
+[sporcle](https://sporcle.com)
+[wikipedia](https://wikipedia.org "Wikipedia")
+
 #### heading 4
-content
+---
+lines?
+---
 
 ##### heading 5
 content
