@@ -2,7 +2,10 @@
 content
 
 ## heading 2
-content
+content.  
+*text in italic*. _this is also italics_
+**text in bold**. __text in bold__
+***bold + italics***
 
 ### heading 3
 content
