@@ -30,8 +30,14 @@ Links:
 # heading 1, again
 #### heading 4
 
-lines?
+lines?1
 ---
+
+lines?2
+***
+
+lines?3
+___
 
 tables:  
 | col1 | col2 |
